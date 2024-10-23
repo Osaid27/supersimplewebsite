@@ -1,0 +1,129 @@
+*{
+  margin: 0px;
+  padding: 0px:;
+}
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #F2F7F2; 
+}
+header{
+  background-color: #F2F7F2;
+}
+.main-bottom{
+  background-color:#558F6C ;
+}
+
+
+/* STYLE TEXT */
+p, h2, h4{
+  color: #394046;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  
+}
+h2{
+  margin: 15px;
+}
+
+h1 {
+  color: #558F6C;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace ;
+  margin: 15px;
+}
+h2{
+  text-align: center;
+}
+#About-Me{
+  width:30%;
+  text-align:left;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 15px;
+}
+
+
+.description{
+  
+  vertical-align: top;
+}
+.profileDiv{
+  display: inline-block;
+  width: 30%;
+  background-color: #558F6C ;
+  vertical-align: top;
+  border-radius: 20%;
+  color: #F2F7F2;
+  padding: 10px;
+  height: 30%;
+  
+}
+.profileTitle{
+  text-align: center;
+  vertical-align: top;
+  text-color:#F2F7F2;
+  padding: 10px;
+}
+
+.project{
+  width:50%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+/* STYLE IMAGES */
+
+body{
+  text-align: left;
+}
+#profile-pic{
+  width:20%;
+  display:inline-block;
+  text-align: center;
+  
+}
+.border{
+  display:inline-block;
+  text-align: center;
+  width:25%;
+}
+.portfolio-pic{
+  width:40%;
+  display:inline-block;
+}
+.pic-div{
+  width:49%;
+  text-align: center;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+/* STYLE NAV BAR */
+nav{
+  background-color:#558F6C ;
+  text-align: center;
+  color:#F2F7F2; 
+}
+
+li{
+  display: inline;
+  padding: 10px;
+}
+
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  padding: 1em;
+}  
+li a{
+  text-decoration: none;
+  color: #F2F7F2;
+  font-size: 1.3em;
+  padding: 1em;
+}
+li a:hover{
+  background-color: #99C2B8
+}
